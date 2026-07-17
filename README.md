@@ -52,81 +52,7 @@ I'm a 2nd-year Computer Engineering student at **ENICarthage** (Tunisia), buildi
 
 <br/>
 
-### 📌 Featured builds
 
-<table>
-<tr>
-<td width="50%">
-
-**[🔧 ekri.app](https://www.ekri.app/)**
-Peer-to-peer rental marketplace for tools & construction equipment in Tunisia — WhatsApp-based auth, Cloudflare R2, Prisma/Supabase. *Live in Grand Tunis.*
-`Next.js 16` `Prisma` `Supabase`
-
-</td>
-<td width="50%">
-
-**[🤖 Carthabot Dashboard](https://carthabot-dashboard.vercel.app)**
-Tournament management for the Carthabot national robotics competition — live brackets, registration, match running across 5 challenges.
-`Next.js 15` `Framer Motion` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🧾 NJ Pièces Automobile ERP](https://github.com/Mahmoud35amri/nj-pieces-automobile-erp)**
-Full ERP for an auto spare-parts business — catalog, pricing, invoicing with PDF export, JWT auth, role-based access.
-`React 19` `Express 5` `MySQL`
-
-</td>
-<td width="50%">
-
-**[📊 Teriak Production Planner](https://github.com/Mahmoud35amri/teriak-planner)**
-Job-Shop scheduling & KPI dashboards for Laboratoires Teriak — built in 24h for the LeanX 1.0 hackathon.
-`Next.js 15` `Prisma` `Recharts`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[🏛️ EniGov](https://github.com/Mahmoud35amri/EniGov)**
-Student-governance platform deployed at ENICarthage — announcements, polls, complaints, direct messaging.
-`JavaScript` `Java` `Docker`
-
-</td>
-<td width="50%">
-
-**[🚚 GOLivraison](https://github.com/Mahmoud35amri/GOLivraison)**
-Delivery-supervision system — Android driver app + real-time REST backend with push notifications & analytics.
-`Android` `Java` `REST API`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[Browse all repositories ↗](https://github.com/Mahmoud35amri?tab=repositories)
-
-</div>
-
-<br/>
-
-### 📈 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahmoud35amri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud35amri&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud35amri&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
 
 ### 🐍 Contribution snake
 
@@ -137,8 +63,6 @@ Delivery-supervision system — Android driver app + real-time REST backend with
 <!--END_SECTION:snake-->
 
 </div>
-
-> ℹ️ The snake animation above needs a one-time GitHub Action — instructions below.
 
 <br/>
 
